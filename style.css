@@ -542,6 +542,9 @@ nav {
     .black,.redblack,nightblack,blue,twilight-gray{
         margin-inline: 20px;
     }
+    .moreinfo{
+        margin-top: 15px;
+    }
 
 
 }
