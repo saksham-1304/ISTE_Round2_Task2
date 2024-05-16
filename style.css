@@ -389,7 +389,14 @@ nav {
 #facebook {
     margin-left: 20px;
 }
-
+@media only screen and (max-width:770px) {
+    .twilight-gray{
+        margin-left: 10px;
+    }
+    .product-text{
+        width: 30vw;
+    }
+}
 @media only screen and (max-width:430px) {
     nav {
         width: 100vw;
@@ -540,11 +547,3 @@ nav {
 }
 
 
-@media only screen and (max-width:770px) {
-    .twilight-gray{
-        margin-left: 10px;
-    }
-    .product-text{
-        width: 30vw;
-    }
-}
